@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "anselmieckartis00eckagoog_0006.png"; bbox 0 0 3060 4402; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 648 1120 1021">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 636 1120 1021">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 648 1120 797; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 242 648 244 655; x_wconf 63' lang='lat'><strong><em>‘</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 398 691 746 796; x_wconf 78' lang='lat' dir='ltr'><strong>ANSELMI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 786 691 1120 797; x_wconf 74' lang='lat' dir='ltr'>ECKARTI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 611 938 914 1021; baseline 0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 611 938 914 1021; x_wconf 86' lang='lat' dir='ltr'><strong>SPECIMEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 248 1166 1278 1550">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 248 1166 1278 1550">
+     <span class='ocr_line' id='line_1_3' title="bbox 248 1166 1278 1298; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 248 1167 674 1298; x_wconf 77' lang='lat' dir='ltr'>LINGUAE</span> <span class='ocrx_word' id='word_1_6' title='bbox 721 1166 1278 1298; x_wconf 76' lang='lat' dir='ltr'>BRASILICAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 562 1445 961 1550; baseline 0.003 -4"><span class='ocrx_word' id='word_1_7' title='bbox 562 1445 961 1550; x_wconf 81' lang='lat' dir='ltr'><strong>VULGARIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 297 1831 1223 1891">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 297 1831 1223 1891">
+     <span class='ocr_line' id='line_1_5' title="bbox 297 1831 1223 1891; baseline 0.001 -2"><span class='ocrx_word' id='word_1_8' title='bbox 297 1831 534 1890; x_wconf 91' lang='lat' dir='ltr'><strong>EDITIONEM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 558 1833 798 1891; x_wconf 85' lang='lat' dir='ltr'>SEPARATAM</span> <span class='ocrx_word' id='word_1_10' title='bbox 822 1833 940 1890; x_wconf 84' lang='lat' dir='ltr'>ALIAS</span> <span class='ocrx_word' id='word_1_11' title='bbox 964 1833 1223 1891; x_wconf 86' lang='lat' dir='ltr'><strong>IMMUTATAM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 497 2171 1031 2266">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 497 2171 1031 2266">
+     <span class='ocr_line' id='line_1_6' title="bbox 497 2171 1031 2266; baseline 0.002 -25"><span class='ocrx_word' id='word_1_12' title='bbox 497 2171 669 2266; x_wconf 85' lang='lat' dir='ltr'>JULIUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 699 2171 1031 2242; x_wconf 82' lang='lat' dir='ltr'><strong>PLATZMANN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 713 2611 813 2806">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 713 2611 813 2806">
+     <span class='ocr_line' id='line_1_7' title="bbox 713 2611 813 2806; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 713 2611 813 2806; x_wconf 70' lang='lat' dir='ltr'>ffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 662 3209 867 3273">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 662 3209 867 3273">
+     <span class='ocr_line' id='line_1_8' title="bbox 662 3209 867 3273; baseline 0.005 -1"><span class='ocrx_word' id='word_1_15' title='bbox 662 3209 867 3273; x_wconf 86' lang='lat' dir='ltr'>LIPSIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1534 4402">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1534 4402">
+     <span class='ocr_line' id='line_1_9' title="bbox 0 0 1534 4402; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1534 4402; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
